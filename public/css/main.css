@@ -43,6 +43,7 @@ p{
 	font-size: 13px;
 	color: #9b9b9b;
 	line-height: 24px;
+    text-align: justify;
 }
 .float-left{
 	float: left;
@@ -1124,7 +1125,7 @@ p{
     position: absolute;
     top: 0px;
     left: 8%;
-    border: 2px solid #f9f9f9;
+    /*border: 2px solid #f9f9f9;*/
     padding: 290px 130px;
 }
 .help-img img{}
@@ -1926,7 +1927,7 @@ select::-ms-expand {
 .footer-content{}
 .f-first-content{
 	position: relative;
-	padding-left: 100px;
+	/*padding-left: 100px;*/
 }
 .footer-content p{
 	color: #bfbfbf;

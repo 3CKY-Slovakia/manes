@@ -11,13 +11,12 @@
                 <div class="col-md-12">
                     <div class="page-title-padding">
                         <div class="page-title-content text-center">
-                            {{--<p>Služby pre</p>--}}
-                            <h2>Fyzické osoby</h2>
+                            <h2>Vymáhací proces</h2>
                         </div>
                         <div class="breadcrumbs text-center">
                             <ul class="page-breadcrumbs">
                                 <li><a href="{{ url('/') }}">Domov</a></li>
-                                <li><a href="{{ url('sluzby/fyzicke-osoby') }}">Pre Fyzické osoby</a></li>
+                                <li><a href="{{ url('sluzby/vymahaci-proces') }}">Vymáhací proces</a></li>
                             </ul>
                         </div>
                     </div>
@@ -36,8 +35,7 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12">
                         <div class="Title-area">
-                            <h3>Služby pre</h3>
-                            <h2>Fyzické osoby</h2>
+                            <h2>Vymáhací proces</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna. Donec vitae sem eget lectus pulvinar ultrices at nec ipsum. Pellentesque aliquam, arcu sed vestibulum molestie, metus nulla faucibus nisi, feugiat euismod dolor erat eu odio. Sed gravida enim tristique est gravida.</p>
                         </div>
                     </div>
@@ -47,23 +45,8 @@
 
         <!-- start practice content area -->
         <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <ul>
-                        <li><strong>Bezplatné poradenstvo</strong> - Naša spoločnosť poskytuje komplexný balík právneho poradenstva v oblasti vymáhania pohľadávok. Operátorky aj inkasný špecialisti sú k dispozícií telefonicky alebo prostredníctvom elektronického formuláru.</li>
-                        <li><strong>Analýza pohľadávky</strong> – Každá pohľadávka prejde dôkladnou analýzou spracovávateľov a informačným systémom.</li>
-                        <li><strong>Mimosúdne inkaso</strong> - Mimosúdne inkaso je služba tretej strany, ktorá využíva všetky zákonné prostriedky na vyriešenie pohľadávky rýchlo, efektívne a mimosúdne.</li>
-                        <li><strong>Zaistenie pohľadávky</strong> - je služba, pomocou ktorej sa nezabezpečená pohľadávka zaistí splátkovým kalendárom, uznaním dlhu, zmenkou a notárskou zápisnicou s priamou vykonateľnosťou.</li>
-                     </ul>
-                </div>
-                <div class="col-md-6">
-                    <ul>
-                        <li><strong>Vytváranie splátkových kalendárov a ich kontrola</strong> - Pre úspešnejšie vymáhanie pohľadávok zabezpečujeme dlžníkom bezplatné nastavovanie splátkových kalendárov na mieru a ich následnú kontrolu.</li>
-                        <li><strong>Odkúpenie pohľadávky</strong> - Ak nemáte záujem o spravovanie pohľadávky a s pohľadávkou máte iba starosti, naša spoločnosť po bezplatnej komplexnej analýze môže odkúpiť Vašu pohľadávku do svojho portfólia</li>
-                        <li><strong>Zabezpečenie platobného rozkazu a exekúcie</strong> - Ak prejde vaša pohľadávka naším interným procesom mimosúdneho inkasa neúspešne, je možné vašu pohľadávku postúpiť na súdne vymáhanie, kde je možné zabezpečiť platobný rozkaz a následne exekúciu.</li>
-                        <li><strong>Súdne vymáhanie</strong> – V prípade neúspešného mimosúdneho vymáhania zabezpečuje naša spoločnosť aj kompletné právne služby.</li>
-                    </ul>
-                </div>
+            <div class="row text-center">
+                <object id="graph_desktop" data="{{ asset('images/graphs/postup.svg') }}" type="" style="max-width: 720px;"></object>
             </div>
         </div>
     </section> <!-- end practice area -->
@@ -126,4 +109,8 @@
         </div>
     </section> <!-- end practice area -->
 
+@endsection
+
+@section('js')
+    <script src="{{ asset('js/svg_graph.js') }}"></script>
 @endsection

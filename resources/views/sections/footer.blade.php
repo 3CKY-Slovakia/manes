@@ -33,13 +33,13 @@
     <div class="footer-content">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-md-4">
+                <div class="col-sm-6 col-md-3">
                     <div class="f-first-content f-all-h2">
                         {{--<div class="f-content-img">--}}
                             {{--<a href="#"><img src="images/fotter-horse.png" alt="f-image"></a>--}}
                         {{--</div>--}}
-                        <p>Trust is a business theme perfectly suited legal advisers and offices, lawyers, attorneys, counsels, advocates and other legal and law related services.Trust started as a sole practitioner providing services to the area community.</p>
-                        <p><a href="#">Buy This Theme <i class="fa fa-long-arrow-right"></i></a></p>
+                        <p>Spoločnosť MANES je výnimočná svojim komplexným pokrytím služieb v oblasti správy pohľadávok, ako jediná na Slovensku ponúka aj správu pohľadávok fyzických osôb. Tejto problematike sa plne venuje v projekte einkaso.sk, ktoré spoločnosť spustila v januári 2016.</p>
+                        <p><a href="{{ url('http://www.einkaso.sk') }}" target="_blank">Prejdite na e-inkaso <i class="fa fa-long-arrow-right"></i></a></p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-3">
@@ -59,7 +59,7 @@
                         {{--</ul>--}}
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-2">
+                <div class="col-sm-6 col-md-3">
                     <div class="f-third-content f-all-h2">
                         <h2>Practice Areas</h2>
                         <ul>

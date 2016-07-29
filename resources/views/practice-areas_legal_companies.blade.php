@@ -11,7 +11,7 @@
                 <div class="col-md-12">
                     <div class="page-title-padding">
                         <div class="page-title-content text-center">
-                            <p>Služby pre</p>
+                            {{--<p>Služby pre</p>--}}
                             <h2>Právnické osoby</h2>
                         </div>
                         <div class="breadcrumbs text-center">

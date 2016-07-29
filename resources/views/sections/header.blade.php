@@ -56,10 +56,10 @@
                             <li><a href="{{ url('sluzby/pravnicke-osoby') }}">Pre právnické osoby</a></li>
                             <li><a href="{{ url('sluzby/fyzicke-osoby') }}">Pre fyzické osoby</a></li>
                             <li><a href="{{ url('sluzby/doplnkove-sluzby') }}">Doplnkové služby</a></li>
-                            <li><a href="contact1.html">Vymáhací proces</a></li>
+                            <li><a href="{{ url('sluzby/vymahaci-proces') }}">Vymáhací proces</a></li>
                         </ul>
                     </li>
-                    <li><a href="{{ url('/') }}">E-INKASO</a></li>
+                    <li><a href="{{ url('http://www.einkaso.sk') }}" target="_blank">E-INKASO</a></li>
                     <li><a href="{{ url('eticky-kodex') }}">ETICKÝ KÓDEX</a>
                     <li><a href="{{ url('referencie') }}">REFERENCIE</a>
                     <li style="padding-right: 0"><a href="{{ url('kontakt') }}" style="padding-right: 0">KONTAKT</a></li>

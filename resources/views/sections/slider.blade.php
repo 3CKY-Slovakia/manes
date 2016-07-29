@@ -358,7 +358,7 @@
                      data-responsive_offset="on"
 
 
-                     style="z-index: 9; white-space: nowrap; font-size: 17px; line-height: 26px; font-weight: 400; color: rgba(229, 228, 228, 1.00);font-family:Lora;"><div class="text-center hidden-xs" style="font-style: italic;">Trust is a business theme perfectly suited legal advisers and offices, lawyers, attorneys, counsels,<br/> advocates and other legal and law related services.</div>
+                     style="z-index: 9; white-space: nowrap; font-size: 17px; line-height: 26px; font-weight: 400; color: rgba(229, 228, 228, 1.00);font-family:Lora;"><div class="text-center hidden-xs" style="font-style: italic;">Spoločnosť MANES je výnimočná svojim komplexným pokrytím služieb v oblasti správy pohľadávok,<br /> ako jediná na Slovensku ponúka aj správu pohľadávok fyzických osôb.</div>
                 </div>
 
                 <!-- LAYER NR. 6 -->
@@ -487,7 +487,7 @@
                      data-responsive_offset="on"
 
 
-                     style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 26px; font-weight: 400; color: rgba(229, 228, 228, 1.00);font-family:Lora;"><span class="sl-italic hidden-xs">Trust is a business theme perfectly suited legal advisers and<br/> offices, lawyers, attorneys, counsels, advocates and other legal<br/> and law related services.</span>
+                     style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 26px; font-weight: 400; color: rgba(229, 228, 228, 1.00);font-family:Lora;"><span class="sl-italic hidden-xs">Vy nám zveríte svoje pohľadávky a našou motiváciou je urobiť maximum,<br /> pretože naša provízia sa účtuje len s úspešne uzavretých prípadov.</span>
                 </div>
 
                 <!-- LAYER NR. 4 -->
