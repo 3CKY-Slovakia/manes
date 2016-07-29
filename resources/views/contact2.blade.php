@@ -60,23 +60,23 @@
                         <div class="address-area">
                             <!-- address title -->
                             <div class="Title-area home-8-title-area contact-1-title-area">
-                                <p>Trust is a business theme perfectly suited legal advisers and offices, lawyers, attorneys, and other legal and law related services. </p>
+                                <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>
                             </div>                        
                         </div>
                         <div class="col-md-6">
                             <div class="address-details">
-                                <span>Phone :</span>
+                                <span>Tel :</span>
                                 <span><i class="fa  fa-phone"></i> +421 948 773 307</span>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="address-details">
-                                <span>Email :</span>
+                                <span>E-mail :</span>
                                 <span><i class="fa   fa-envelope"></i>info@manes.sk</span>
                             </div>
                         </div>
                         <div class="view-location">
-                            <span>Address :</span>
+                            <span>Adresa :</span>
                             <span><i class="fa fa-map-marker"></i> Ružová dolina 6, 821 08 Bratislava</span>
                             <a href="https://www.google.sk/maps/place/Ru%C5%BEov%C3%A1+dolina+480%2F6,+821+08+Bratislava/@48.1541508,17.1353935,17z/data=!3m1!4b1!4m5!3m4!1s0x476c893398b941b1:0xf6ff7fc1b39b4cd1!8m2!3d48.1541508!4d17.1375822?hl=sk" target="_blank">Pozrieť na mape</a>
                         </div>

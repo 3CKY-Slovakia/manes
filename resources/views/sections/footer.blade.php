@@ -24,7 +24,7 @@
                     <div class="f-h-content">
                         <h3>Navštívte nás !</h3>
                         <h2>Ružová dolina 6,  821 08,  Bratislava - Ružinov</h2>
-                        <p><a href="#">Pozrieť na mape</a></p>
+                        <p><a href="https://www.google.sk/maps/place/Ru%C5%BEov%C3%A1+dolina+480%2F6,+821+08+Bratislava/@48.1541508,17.1353935,17z/data=!3m1!4b1!4m5!3m4!1s0x476c893398b941b1:0xf6ff7fc1b39b4cd1!8m2!3d48.1541508!4d17.1375822?hl=sk" target="_blank">Pozrieť na mape</a></p>
                     </div>
                 </div>
             </div>

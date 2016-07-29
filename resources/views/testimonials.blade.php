@@ -52,45 +52,45 @@
                             <div class="item">
                                 <div class="owl-testimonial-content owl-testimonial-details">
                                     <i class="fa fa-quote-left"></i>
-                                    <h2> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>
-                                    <p>Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>                                    
+                                    <h2 class="red"> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>
+                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
                                 </div>
                                 <div class="testimonial-quote t-details-quote">
-                                    <span>Begha</span>
-                                    <span>Art Director, 7oroof Agency.</span>
+                                    <span class="red">Begha</span>
+                                    <span class="red">Art Director, 7oroof Agency.</span>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="owl-testimonial-content owl-testimonial-details">
                                     <i class="fa fa-quote-left"></i>
-                                    <h2> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>
-                                    <p>Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>                                    
+                                    <h2 class="red"> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>
+                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
                                 </div>
                                 <div class="testimonial-quote t-details-quote">
-                                    <span>Amr Sadek</span>
-                                    <span>UI Developer</span>
+                                    <span class="red">Amr Sadek</span>
+                                    <span class="red">UI Developer</span>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="owl-testimonial-content owl-testimonial-details">
                                     <i class="fa fa-quote-left"></i>
-                                    <h2> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>
-                                    <p>Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>                                    
+                                    <h2 class="red"> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>
+                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
                                 </div>
                                 <div class="testimonial-quote t-details-quote">
-                                    <span>Begha</span>
-                                    <span>Art Director, 7oroof Agency.</span>
+                                    <span class="red">Begha</span>
+                                    <span class="red">Art Director, 7oroof Agency.</span>
                                 </div>
                             </div> 
                             <div class="item">
                                 <div class="owl-testimonial-content owl-testimonial-details">
                                     <i class="fa fa-quote-left"></i>
-                                    <h2> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>
-                                    <p>Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>                                    
+                                    <h2 class="red"> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>
+                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
                                 </div>
                                 <div class="testimonial-quote t-details-quote">
-                                    <span>Amr Sadek</span>
-                                    <span>UI Developer</span>
+                                    <span class="red">Amr Sadek</span>
+                                    <span class="red">UI Developer</span>
                                 </div>
                             </div>                           
                         </div>
@@ -114,9 +114,9 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-6">
                         <div class="Title-area contact-title h-5-title">
-                            <h3>Fun Facts</h3>
-                            <h2>Trust In Numbers</h2>
-                            <p>Since 1900, Trust start working aiming to build awide range circle of customers, and to win all the cases brought by the customers, have alook in our numbers.</p>
+                            <h3>v číslach</h3>
+                            <h2>Naše úspechy</h2>
+                            <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@
                         <div class="Title-area">
                             <h3>Dôverujú nám</h3>
                             <h2>Naši klienti</h2>
-                            <p>Results recommend Trust  Law Firm as a good lawyers office, a trusted partners of his customers’ business and a honest adviser and consultant for legal situation.</p>
+                            <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>
                         </div>
                     </div>
                 </div>

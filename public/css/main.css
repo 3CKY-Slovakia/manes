@@ -7330,3 +7330,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     background: #3b5684;
     color: #fff;
 }
+
+.red{
+    color: red!important;
+}
