@@ -3505,6 +3505,15 @@ select::-ms-expand {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+.page-title-area-small{
+    position: relative;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 .page-title-area:before {
     background-color: rgba(27, 26, 26, 0.35);
     content: "";
@@ -5377,7 +5386,7 @@ ul.page-breadcrumbs li + li:before {
     width: 100%;
 }
 .big_map{
-    height: 900px !important;
+    height: 400px !important;
 }
 
 /*GALLERY*/

@@ -4,7 +4,7 @@
     <!-- =========================
      PAGE TITLE SECTION
     ============================== -->  
-    <section class="page-title-area testmonial-title-bg">
+    <section class="page-title-area-small testmonial-title-bg">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
