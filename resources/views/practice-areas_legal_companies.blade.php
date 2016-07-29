@@ -5,7 +5,7 @@
     <!-- =========================
          PAGE TITLE SECTION
     ============================== -->
-    <section class="page-title-area practice-block-title-bg">
+    <section class="page-title-area-small practice-block-title-bg">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
