@@ -1,4 +1,4 @@
-<section class="contact-us contact-us-4" style="margin: -110px 0 0 0">
+<section class="contact-us contact-us-4" style="margin: -110px 0 0 0" id="o_nas">
     <div class="welcome-title-area">
         <div class="container">
             <div class="row" style="margin: 70px 0 0 0">
@@ -62,7 +62,7 @@
  START WELCOME SECTION
 ============================== -->
 
-<section class="welcome-area" id="about_us">
+<section class="welcome-area" id="einkaso">
     {{--<div class="welcome-title-area">--}}
         {{--<div class="container">--}}
             {{--<div class="row">--}}
@@ -149,14 +149,16 @@
                         Typy pohľadávok najčastejšie riešených v projekte einkaso :
                     </p>
 
-                    <ul>
-                        <li>Pôžičky</li>
-                        <li>Zmenky</li>
-                        <li>Nezaplatené nájomné</li>
-                        <li>Nezaplatené faktúry za tovary, alebo služby</li>
-                        <li>Nezaplatená mzda</li>
-                        <li>Náhrada škody</li>
-                    </ul>
+                    <div class="sidebar-category sidebar-inner">
+                        <ul>
+                            <li><i class="fa fa-long-arrow-right colored"></i> Pôžičky</li>
+                            <li><i class="fa fa-long-arrow-right colored"></i> Zmenky</li>
+                            <li><i class="fa fa-long-arrow-right colored"></i> Nezaplatené nájomné</li>
+                            <li><i class="fa fa-long-arrow-right colored"></i> Nezaplatené faktúry za tovary, alebo služby</li>
+                            <li><i class="fa fa-long-arrow-right colored"></i> Nezaplatená mzda</li>
+                            <li><i class="fa fa-long-arrow-right colored"></i> Náhrada škody</li>
+                        </ul>
+                    </div>
 
                     <!-- start content -->
                     {{--<div class="row">--}}

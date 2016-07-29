@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', function () { return view('welcome'); });
+Route::get('sluzby/pravnicke-osoby', function () { return view('practice-areas_legal_companies'); });
+Route::get('sluzby/fyzicke-osoby', function () { return view('practice-areas_persons'); });
+Route::get('sluzby/doplnkove-sluzby', function () { return view('practice-areas_extras'); });
+Route::get('eticky-kodex', function () { return view('eticky-kodex'); });
+Route::get('referencie', function () { return view('testimonials'); });
+Route::get('kontakt', function () { return view('contact2'); });
