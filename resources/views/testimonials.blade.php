@@ -10,7 +10,7 @@
                 <div class="col-md-12">
                     <div class="page-title-padding">
                         <div class="page-title-content text-center">
-                           <p>Čo o nás vravia klienti</p>
+                           <p class="text-center">Čo o nás vravia klienti</p>
                            <h2>Referencie</h2>
                         </div>
                         <div class="breadcrumbs text-center">
@@ -186,28 +186,19 @@
                         <div class="client-content">
                             <div id="client-demo" class="owl-carousel owl-theme home-client-content">
                                 <div class="item client-item">
-                                    <a href="#"><img src="images/client-1.png" alt=""></a>
+                                    <a href="#"><img src="images/clients/cesmad.png" alt=""></a>
                                 </div>
                                 <div class="item client-item">
-                                    <a href="#"><img src="images/client-2.png" alt=""></a>
+                                    <a href="#"><img src="images/clients/frieb.png" alt=""></a>
                                 </div>
                                 <div class="item client-item">
-                                    <a href="#"><img src="images/client-3.png" alt=""></a>
+                                    <a href="#"><img src="images/clients/hedak.png" alt=""></a>
                                 </div>
                                 <div class="item client-item">
-                                    <a href="#"><img src="images/client-4.png" alt=""></a>
+                                    <a href="#"><img src="images/clients/madast.png" alt=""></a>
                                 </div>
                                 <div class="item client-item">
-                                    <a href="#"><img src="images/client-5.png" alt=""></a>
-                                </div>
-                                <div class="item client-item">
-                                    <a href="#"><img src="images/client-6.png" alt=""></a>
-                                </div>
-                                <div class="item client-item">
-                                    <a href="#"><img src="images/client-1.png" alt=""></a>
-                                </div>
-                                <div class="item client-item">
-                                    <a href="#"><img src="images/client-2.png" alt=""></a>
+                                    <a href="#"><img src="images/clients/schuller_ehklar.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="testimonial-customNavigation client-customNavigation">
