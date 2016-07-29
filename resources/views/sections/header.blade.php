@@ -13,8 +13,8 @@
         <div class="row">
             <div id="menuzord" class="menuzord p-title-menuzord">
                 <a href="#" class="menuzord-brand">
-                    <img src="images/MANES-logo.png" height="45" alt="" id="blue-logo">
-                    <img src="images/MANES-logo-white.png" height="45" alt="" id="white-logo">
+                    <img src="{{ asset('images/MANES-logo.png') }}" height="45" alt="" id="blue-logo">
+                    <img src="{{ asset('images/MANES-logo-white.png') }}" height="45" alt="" id="white-logo">
                     <span>Správa inkasných pohľadávok <br>pre právnické a fyzické osoby</span>
                 </a>
                 <div class="header-contact">
@@ -49,20 +49,20 @@
                     {{--</div>--}}
                 {{--</div>--}}
                 <ul class="menuzord-menu transparent-menuzord-menu transparent-menuzord-menu-3 menuzord-menu-bg">
-                    <li class="active"><a href="home.html">DOMOV</a></li>
-                    <li><a href="#about_us">O NÁS</a></li>
+                    <li class="active"><a href="{{ url('/') }}">DOMOV</a></li>
+                    <li><a href="{{ url('/') }}#o_nas">O NÁS</a></li>
                     <li><a href="#">SLUŽBY</a>
                         <ul class="dropdown">
-                            <li><a href="contact2.html">Pre právnické osoby</a></li>
-                            <li><a href="contact1.html">Pre fyzické osoby</a></li>
-                            <li><a href="contact1.html">Doplnkové služby</a></li>
+                            <li><a href="{{ url('sluzby/pravnicke-osoby') }}">Pre právnické osoby</a></li>
+                            <li><a href="{{ url('sluzby/fyzicke-osoby') }}">Pre fyzické osoby</a></li>
+                            <li><a href="{{ url('sluzby/doplnkove-sluzby') }}">Doplnkové služby</a></li>
                             <li><a href="contact1.html">Vymáhací proces</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">E-INKASO</a></li>
-                    <li><a href="#">ETICKÝ KÓDEX</a>
-                    <li><a href="#">REFERENCIE</a>
-                    <li style="padding-right: 0"><a href="#cotnact-us" style="padding-right: 0">KONTAKT</a></li>
+                    <li><a href="{{ url('/') }}">E-INKASO</a></li>
+                    <li><a href="{{ url('eticky-kodex') }}">ETICKÝ KÓDEX</a>
+                    <li><a href="{{ url('referencie') }}">REFERENCIE</a>
+                    <li style="padding-right: 0"><a href="{{ url('kontakt') }}" style="padding-right: 0">KONTAKT</a></li>
 
                     {{--<li><a href="contact1.html">CONTACT</a>--}}
                         {{--<ul class="dropdown">--}}

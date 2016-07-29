@@ -7311,3 +7311,12 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     margin-left: -241px;
     opacity: 1;
 }
+
+.colored{
+    color: #3b5684;
+}
+
+.colored-bg{
+    background: #3b5684;
+    color: #fff;
+}
