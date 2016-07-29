@@ -36,7 +36,7 @@
                     <div class="col-xs-12 col-sm-12">
                         <div class="Title-area">
                             <h2>Vymáhací proces</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna. Donec vitae sem eget lectus pulvinar ultrices at nec ipsum. Pellentesque aliquam, arcu sed vestibulum molestie, metus nulla faucibus nisi, feugiat euismod dolor erat eu odio. Sed gravida enim tristique est gravida.</p>
+                            <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna. Donec vitae sem eget lectus pulvinar ultrices at nec ipsum. Pellentesque aliquam, arcu sed vestibulum molestie, metus nulla faucibus nisi, feugiat euismod dolor erat eu odio. Sed gravida enim tristique est gravida.</p>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                         <div class="Title-area">
                             <h3>Všetky oblasti</h3>
                             <h2>Ďalšie služby</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna. Donec vitae sem eget lectus pulvinar ultrices at nec ipsum. Pellentesque aliquam, arcu sed vestibulum molestie, metus nulla faucibus nisi, feugiat euismod dolor erat eu odio. Sed gravida enim tristique est gravida.</p>
+                            <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna. Donec vitae sem eget lectus pulvinar ultrices at nec ipsum. Pellentesque aliquam, arcu sed vestibulum molestie, metus nulla faucibus nisi, feugiat euismod dolor erat eu odio. Sed gravida enim tristique est gravida.</p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                             <div class="h-2-p-c-default">
                                 <i class="fa fa-legal"></i>
                                 <h2><a href="{{ url('sluzby/pravnicke-osoby') }}">Právnické osoby</a></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna.</p>
+                                <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna.</p>
                                 <a href="{{ url('sluzby/pravnicke-osoby') }}">Viac <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
@@ -89,7 +89,7 @@
                             <div class="h-2-p-c-default">
                                 <i class="fa  fa-male"></i>
                                 <h2><a href="{{ url('sluzby/fyzicke-osoby') }}">Fyzické osoby</a></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna.</p>
+                                <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna.</p>
                                 <a href="{{ url('sluzby/fyzicke-osoby') }}">Viac <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                             <div class="h-2-p-c-default">
                                 <i class="fa fa-info"></i>
                                 <h2><a href="{{ url('sluzby/doplnkove-sluzby') }}">Doplnkové služby</a></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna.</p>
+                                <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut molestie ipsum. Duis nec odio malesuada, tincidunt dui sed, finibus urna.</p>
                                 <a href="{{ url('sluzby/doplnkove-sluzby') }}">Viac <i class="fa fa-long-arrow-right"></i></a>
                             </div>
                         </div>
