@@ -76,7 +76,7 @@
 
     <section class="practice-area home-2-practice-area type-1-bg">
         <div class="welcome-title-area">
-            <div class="container">
+            <div class="container bg_logo">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12">
                         <div class="Title-area">
