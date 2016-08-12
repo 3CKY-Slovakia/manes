@@ -7334,3 +7334,10 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .red{
     color: red!important;
 }
+
+.bg_logo{
+    background: url('../images/logo-bg.png');
+    background-size: 500px 281px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}

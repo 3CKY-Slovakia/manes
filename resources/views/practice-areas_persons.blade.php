@@ -30,7 +30,7 @@
      START PRACTICE SECTION
     ============================== -->
 
-    <section class="practice-area">
+    <section class="practice-area bg_logo">
         <div class="welcome-title-area">
             <div class="container">
                 <div class="row">
@@ -49,19 +49,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <ul>
-                        <li><strong>Bezplatné poradenstvo</strong> - Naša spoločnosť poskytuje komplexný balík právneho poradenstva v oblasti vymáhania pohľadávok. Operátorky aj inkasný špecialisti sú k dispozícií telefonicky alebo prostredníctvom elektronického formuláru.</li>
-                        <li><strong>Analýza pohľadávky</strong> – Každá pohľadávka prejde dôkladnou analýzou spracovávateľov a informačným systémom.</li>
-                        <li><strong>Mimosúdne inkaso</strong> - Mimosúdne inkaso je služba tretej strany, ktorá využíva všetky zákonné prostriedky na vyriešenie pohľadávky rýchlo, efektívne a mimosúdne.</li>
-                        <li><strong>Zaistenie pohľadávky</strong> - je služba, pomocou ktorej sa nezabezpečená pohľadávka zaistí splátkovým kalendárom, uznaním dlhu, zmenkou a notárskou zápisnicou s priamou vykonateľnosťou.</li>
+                    <ul style="list-style: none">
+                        <li><strong class="colored">Bezplatné poradenstvo</strong><br>Naša spoločnosť poskytuje komplexný balík právneho poradenstva v oblasti vymáhania pohľadávok. Operátorky aj inkasný špecialisti sú k dispozícií telefonicky alebo prostredníctvom elektronického formuláru.</li>
+                        <li><strong class="colored">Analýza pohľadávky</strong><br>Každá pohľadávka prejde dôkladnou analýzou spracovávateľov a informačným systémom.</li>
+                        <li><strong class="colored">Mimosúdne inkaso</strong><br>Mimosúdne inkaso je služba tretej strany, ktorá využíva všetky zákonné prostriedky na vyriešenie pohľadávky rýchlo, efektívne a mimosúdne.</li>
+                        <li><strong class="colored">Zaistenie pohľadávky</strong><br>je služba, pomocou ktorej sa nezabezpečená pohľadávka zaistí splátkovým kalendárom, uznaním dlhu, zmenkou a notárskou zápisnicou s priamou vykonateľnosťou.</li>
                      </ul>
                 </div>
                 <div class="col-md-6">
-                    <ul>
-                        <li><strong>Vytváranie splátkových kalendárov a ich kontrola</strong> - Pre úspešnejšie vymáhanie pohľadávok zabezpečujeme dlžníkom bezplatné nastavovanie splátkových kalendárov na mieru a ich následnú kontrolu.</li>
-                        <li><strong>Odkúpenie pohľadávky</strong> - Ak nemáte záujem o spravovanie pohľadávky a s pohľadávkou máte iba starosti, naša spoločnosť po bezplatnej komplexnej analýze môže odkúpiť Vašu pohľadávku do svojho portfólia</li>
-                        <li><strong>Zabezpečenie platobného rozkazu a exekúcie</strong> - Ak prejde vaša pohľadávka naším interným procesom mimosúdneho inkasa neúspešne, je možné vašu pohľadávku postúpiť na súdne vymáhanie, kde je možné zabezpečiť platobný rozkaz a následne exekúciu.</li>
-                        <li><strong>Súdne vymáhanie</strong> – V prípade neúspešného mimosúdneho vymáhania zabezpečuje naša spoločnosť aj kompletné právne služby.</li>
+                    <ul style="list-style: none">
+                        <li><strong class="colored">Vytváranie splátkových kalendárov a ich kontrola</strong><br>Pre úspešnejšie vymáhanie pohľadávok zabezpečujeme dlžníkom bezplatné nastavovanie splátkových kalendárov na mieru a ich následnú kontrolu.</li>
+                        <li><strong class="colored">Odkúpenie pohľadávky</strong><br>Ak nemáte záujem o spravovanie pohľadávky a s pohľadávkou máte iba starosti, naša spoločnosť po bezplatnej komplexnej analýze môže odkúpiť Vašu pohľadávku do svojho portfólia</li>
+                        <li><strong class="colored">Zabezpečenie platobného rozkazu a exekúcie</strong><br>Ak prejde vaša pohľadávka naším interným procesom mimosúdneho inkasa neúspešne, je možné vašu pohľadávku postúpiť na súdne vymáhanie, kde je možné zabezpečiť platobný rozkaz a následne exekúciu.</li>
+                        <li><strong class="colored">Súdne vymáhanie</strong><br>V prípade neúspešného mimosúdneho vymáhania zabezpečuje naša spoločnosť aj kompletné právne služby.</li>
                     </ul>
                 </div>
             </div>

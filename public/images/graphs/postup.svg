@@ -389,14 +389,7 @@
         <image class="cls-8" x="208" y="173" width="311" height="118" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAATcAAAB2CAMAAACajyR9AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAkFBMVEUAAAD9/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f0AAACYTXQtAAAAL3RSTlMAAgEDBAUGBwgMK0hZXlxTQB8nTDYZDiFCQxULMTpEGwkmLwo/ERA4EykoMxgtJecedP8AAAABYktHRACIBR1IAAAACXBIWXMAAAsSAAALEgHS3X78AAACLklEQVR42u3dWW/TQBhG4RnP4pSd0rIFKBDKTv7/z8N1EtpISPEcLiyL81ylN5V19Dm5fEPYi5qkC3fFlEvVaSWn23JdKrXXBKu+rznevqPd8fnpr7pYhna1HMLFf/pv/5WxXN5dmbfWIKXh4tLNJ6+tSc67g8shnN27/+ChTnn0+MnTGkKt/fANV0I8f3ZxuUo6pTx/8fLV61BSX2NYxzdv13Pf/nJcvrvq1mXo9v7Dx7mfZVE2n66v49Dt84U/p002X76Godu3fu4HWZqr72O3uR9jceqPm24/536M5fkVVjFs5n6K5TkPmxTq3E+xPNuwyXZrtw1ruwHbcFbs1s5ujN0YuzF2Y+zG2I2xG2M3xm6M3Ri7MXZj7MbYjbEbYzfGbozdGLsxdmPsxtiNsRtjN8ZujN0YuzF2Y+zG2I2xG2M3xm6M3Ri7MXZj7MbYjbEbYzfGbozdGLsxdmPsxtiNsRtjN8ZujN0YuzF2Y+zG2I2xG2M3xm6M3Ri7MXZj7MbYjbEbYzfGbozdGLsxdmPsxtiNsRtjN8ZujN0YuzF2Y+zG2I2xG2M3xm6MOynMuMvjDlSzcQfK3bFm4+6YO3etdjt37iq22u0quuPZaL/j6W5sm8NurDvFTf7sFLuLPdnRLrY77JMd7bCHEOe+/WXJue/z+FvqD2qDlPq+pt1nL26yWPrDuQ1/xM6bm6Abq9VyuLMuldprgtWQLd95PWPKpeq0ktPxqxk1yb7abzcuaB9ulXdgAAAAAElFTkSuQmCC"/>
         <text id="Zadanie_pohľadávky_do_informačného_systému_on-line" data-name="Zadanie pohľadávky do informačného systému on-line" class="cls-9" transform="translate(227.845 220.435) scale(0.753 0.754)">Zadanie pohľadávky<tspan x="0" dy="26.4">do informačného systému</tspan><tspan x="0" dy="26.4">on-line</tspan></text>
       </g>
-      <g class="cls-10">
-        <use x="484" y="149" xlink:href="#image-3"/>
-        <use x="487" y="151" xlink:href="#image-4"/>
-        <use x="490" y="155" xlink:href="#image-5"/>
-        <use x="492" y="157" xlink:href="#image-6"/>
-        <text id="ZDARMA" class="cls-11" transform="matrix(0.392, 0.227, -0.227, 0.393, 500.029, 174.933)">ZDARMA</text>
-        <use x="496" y="163" xlink:href="#image-7"/>
-      </g>
+
       <g id="info1">
         <use class="cls-12" x="197" y="215" xlink:href="#image-9"/>
         <use class="cls-13" x="197" y="216" xlink:href="#image-10"/>
@@ -414,14 +407,6 @@
         <use class="cls-5" x="383" y="385" xlink:href="#image-2"/>
         <image x="434" y="401" width="189" height="38" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAAmCAMAAACmqGqCAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAM1BMVEUAAAA1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwY1jwYAAAA9c2D9AAAAD3RSTlMARHfdM6oRzLuZIohVZu528xerAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAABBpJREFUWMPVmeti6yAIgCPaeEv0/d/2IHhv0q5d1/bwY+u0wy+ICGRZWATIiCJBLNeiePIC6/KNInSsomd+ZdqkvaPIRXg7vI+DjADbMCfd9L9y+Pbl8hl4vxGqn/FFmwRzgD/Qb/LtvrUnl66ruuREjdAF9KX6Z9oHfYNevZt9WcPozqvs/7Zo7c6eCvH3c/r3C5peDgPJVwqww8+DQaH7NnpZ2JFeRKV5h1x09xd8qVzmY7ogytYApzCDO5ODEgSR/CzR6x0/mU/Q6zgv6dvz6Mn0ZHxPH9aw089Enz4p/Ob76dGY0whU+hV9Y5pU5dxu7F7kOcSMe1Lp43vk6HkaPcaYqwAe8qnY+bmO6T8ozXMgXt+dxZl2+Z30zdn9Af0lH9ubnvM5Ee1GsnN078bW2E7t99CvLSbepF+8rBHza+iVLCHxHj3dVmC+iB5snPKEG/RfJDWGhq0N/nf0oS9OHqR/ojaR5qX0GHBabvAg/VibQE3n7CkivLQg2CD0OfBj9FNt8gN6F15dEeD9WlPMx+jnfO4+/R9UM5jchPUZ+tkMP/CcPxBb84Nb9DufEsPFCfB+AT73LvnsgBSSszyiT32LNGwAqHReJV0rKl+NcTM8z+oWZ9JtQgtlfVXDktxbn+1bTYLv214htKAmiqFbQlvcOkjJkMM1cAUVLNOLNGzw4Yw0K7qnyHvj8w4RappndS7gt/bgl6avatgTwCWcXYwlCb6ZpSUh+3FxsidvczjFha7xSOjITkzPw/jTEC6GJ0d6Sl0cyzyrs/StDVVUfVWDJUOFM/+tSSZ0WcPVZFoj7REnClRqIarK+fOebSsi0edhe8mbBIa3SxVlvKFeZ3XsNPir6msaoHVlFMCVB5li3lvVCU2rSk8G1p5oWQZ6EcsxafRpu3xJZ/NhkqxuzQDGVn1NA26/tgy9Hxcg/HS3KsPkm7A0ehHXZJ4T+q0ON/oVk5JQFr9Lv/V1IOZj5r55defky+xM+WrN9OiRoDtXOPScgR69QNR9ZHqYPEdC/Uc19gdc4FZAje5FuvLksCOS7zLIp77Qg9awlGN48SP9Isszd/Qi2mq5fGp9Vkcnqju1qK9q4BENGWc6maaNpG7UYPzWjVLlKQq9Y3+jCOfRUCO9SDoFBsOOHteugSNyPHRZ3RQxPflk1pDKIhphnjGoQ9/ItGPftesE2nyKXKFfDF+p7bbq6emuSVbr6aFte0w93hTps7qT24rsTreVqL7du4cfmsipCyurwx10YXunejjvt23dZ4sGRy9GgPxAUY7ZpyUUqGzrgJ9ecUs7gT+VtauEni551u7lCL3hmaCGtw+naeGq771YuRLbtX9/UbDtsuPbpsnhzc+pefEGedD0MJjiV+Xmxi/WAmwHk/mtm4FPd2tm+QeLikGaG6/SdAAAAABJRU5ErkJggg=="/>
       </g>
-      <g class="cls-10">
-        <use x="650" y="359" xlink:href="#image-3"/>
-        <use x="653" y="361" xlink:href="#image-4"/>
-        <use x="656" y="365" xlink:href="#image-5"/>
-        <use x="658" y="367" xlink:href="#image-6"/>
-        <text id="ZDARMA-2" data-name="ZDARMA" class="cls-11" transform="matrix(0.392, 0.227, -0.227, 0.393, 666.03, 384.933)">ZDARMA</text>
-        <use x="662" y="373" xlink:href="#image-7"/>
-      </g>
     </g>
     <g id="Group_3_copy_5" data-name="Group 3 copy 5">
       <g>
@@ -431,14 +416,6 @@
         <text id="_90" data-name="90" class="cls-17" transform="translate(60.366 438.031) scale(0.698 0.699)">90</text>
         <text id="dní_štandardný_proces" data-name="dní štandardný proces" class="cls-14" transform="translate(118.845 417.436) scale(0.753 0.754)">dní<tspan x="0" dy="27.988">štandardný proces</tspan></text>
         <image x="148" y="410" width="114" height="1" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAABAQMAAAA4pWhRAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEX///8AAABVwtN+AAAAAWJLR0QB/wIt3gAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAtJREFUCNdjYEAFAAAQAAGhxSHBAAAAAElFTkSuQmCC"/>
-      </g>
-      <g class="cls-10">
-        <use x="278" y="359" xlink:href="#image-3"/>
-        <use x="281" y="361" xlink:href="#image-4"/>
-        <use x="284" y="365" xlink:href="#image-5"/>
-        <use x="286" y="367" xlink:href="#image-6"/>
-        <text id="ZDARMA-3" data-name="ZDARMA" class="cls-11" transform="matrix(0.392, 0.227, -0.227, 0.393, 294.029, 384.933)">ZDARMA</text>
-        <use x="290" y="373" xlink:href="#image-7"/>
       </g>
     </g>
     <g>
@@ -491,14 +468,6 @@
         <use class="cls-5" x="382" y="1113" xlink:href="#image-2"/>
         <text id="Neúspešne_vymoženie_pohľadávky" data-name="Neúspešne vymoženie pohľadávky" class="cls-28" transform="translate(536.845 1148.436) scale(0.753 0.754)"><tspan x="0">Neúspešne vymoženie</tspan><tspan x="0" dy="27.988">pohľadávky</tspan></text>
       </g>
-      <g class="cls-10">
-        <use x="649" y="1087" xlink:href="#image-3"/>
-        <use x="652" y="1089" xlink:href="#image-4"/>
-        <use x="655" y="1093" xlink:href="#image-5"/>
-        <use x="657" y="1095" xlink:href="#image-6"/>
-        <text id="ZDARMA-4" data-name="ZDARMA" class="cls-11" transform="matrix(0.392, 0.227, -0.227, 0.393, 665.029, 1112.934)">ZDARMA</text>
-        <use x="661" y="1101" xlink:href="#image-7"/>
-      </g>
     </g>
     <g id="Group_3_copy_8" data-name="Group 3 copy 8">
       <g>
@@ -523,14 +492,6 @@
         <use class="cls-4" x="382" y="1249" xlink:href="#image-8"/>
         <use class="cls-5" x="382" y="1286" xlink:href="#image-2"/>
         <text id="Návrh_ďalšieho_riešenia_pre_klienta" data-name="Návrh ďalšieho riešenia pre klienta" class="cls-6" transform="translate(535.845 1320.436) scale(0.753 0.754)"><tspan x="0">Návrh ďalšieho riešenia</tspan><tspan x="0" dy="27.988">pre klienta</tspan></text>
-      </g>
-      <g class="cls-10">
-        <use x="649" y="1260" xlink:href="#image-3"/>
-        <use x="652" y="1262" xlink:href="#image-4"/>
-        <use x="655" y="1266" xlink:href="#image-5"/>
-        <use x="657" y="1268" xlink:href="#image-6"/>
-        <text id="ZDARMA-5" data-name="ZDARMA" class="cls-11" transform="matrix(0.392, 0.227, -0.227, 0.393, 665.029, 1285.933)">ZDARMA</text>
-        <use x="661" y="1274" xlink:href="#image-7"/>
       </g>
     </g>
     <g id="Group_3_copy_10" data-name="Group 3 copy 10">

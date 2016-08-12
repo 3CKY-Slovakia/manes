@@ -46,7 +46,7 @@
         </div> <!-- end title. it will use all pages title -->
 
         <!-- start practice content area -->
-        <div class="container">
+        <div class="container bg_logo">
             <div class="row">
                 <div class="col-md-6">
                     <ul>
