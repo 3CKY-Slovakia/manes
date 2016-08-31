@@ -46,7 +46,7 @@
         </div> <!-- end title. it will use all pages title -->
 
         <!-- start practice content area -->
-        <div class="container bg_logo">
+        <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <ul>
@@ -92,6 +92,8 @@
             </div>
         </div>
     </section> <!-- end practice area -->
+	<img class="maneslogo" src="{{ asset('images/logo-bg.png')  }}">
+
 
     <!-- =========================
      START PRACTICE SECTION

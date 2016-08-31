@@ -40,7 +40,7 @@ p, h1, h2, h3, h4, h5 {
 }*/
 p{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	color: #9b9b9b;
 	line-height: 24px;
     text-align: justify;
@@ -321,7 +321,7 @@ p{
 .add-to-cart-content > p{
     font-weight: bold;
     color: #b8b8b8;
-    font-size: 14px;
+    font-size: 15px;
     margin-top: 15px;
 }
 .add-to-cart-content > p span{
@@ -332,7 +332,7 @@ p{
     display: inline-block;
     width: 155px;
     height: 40px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     text-decoration: none;
@@ -614,7 +614,7 @@ p{
     position: absolute;
     right: 16px;
     top: 15px;
-    font-size: 14px;
+    font-size: 15px;
     color: #333;
     font-size: 28px;
 }
@@ -770,7 +770,7 @@ p{
 .rev-slider-btn-1,.rev-slider-btn-1:focus,.rev-slider-btn-1:visited,.rev-slider-btn-1:active{
     border: 2px solid #eee;
     border-radius: 0;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 17px 26px;
@@ -1022,7 +1022,7 @@ p{
 }
 .Title-area p{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	color: #9b9b9b;
 }
 
@@ -1055,7 +1055,7 @@ p{
 	margin-bottom: 15px;
 }
 .asset-content a {
-	font-size: 13px;
+	font-size: 15px;
 	color: #3b5684;
 	font-family: 'Open Sans', sans-serif;
 	display: inline-block;
@@ -1072,7 +1072,7 @@ p{
 .asset-button{
 }
 .asset-button button{
-	font-size: 13px;
+	font-size: 15px;
 	color: #333333!important;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
@@ -1399,7 +1399,7 @@ p{
 	margin-bottom: 10px;
 }
 .testimonial-quote span:last-child{
-	font-size: 13px;
+	font-size: 15px;
     color: #b8b8b8;
     font-family: 'Lora', serif;
 }
@@ -1591,12 +1591,12 @@ p{
 	text-decoration: none;
 }
 .social-content-box a i{
-	font-size: 14px;
+	font-size: 15px;
     color: #fff;
     margin: 0 10px;
 }
 .social-content-box a:hover i{
-	font-size: 14px;
+	font-size: 15px;
     color: #3b5684;
     margin: 0 10px;
 }
@@ -1625,7 +1625,7 @@ p{
 .member-name p{
 	 color: #b8b8b8;
     font-family: 'Lora', serif;
-    font-size: 13px;
+    font-size: 15px;
 }
 .member-name span{
 	display: block;
@@ -1676,30 +1676,30 @@ p{
 .contact-form{}
 .contact-form form{
 	padding: 25px 30px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;     
 }
 .contact-form .form-control::-webkit-input-placeholder {
     color:#b8b8b8;
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px; 
+    font-size: 15px; 
 }
 .contact-form .form-control::-moz-placeholder {
     color:#b8b8b8; 
     font-family:'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
 } /* firefox 19+ */
 .contact-form .form-control:-ms-input-placeholder {
     color:#b8b8b8;
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px; 
+    font-size: 15px; 
 } /* ie */
 .contact-form .form-control :-moz-placeholder { 
     color:#b8b8b8; font-family: 'Open Sans', sans-serif;
-    font-size: 13px; 
+    font-size: 15px; 
  }
  .contact-form .form-control{
-    font-size: 13px;
+    font-size: 15px;
  }
 .contact-form form input, .contact-form form input:focus{
 	background: transparent!important;
@@ -1730,7 +1730,7 @@ p{
     color: #b8b8b8;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;  
-    font-size: 13px; 
+    font-size: 15px; 
     font-weight: 400; 
 }
 .contact-form form select option{
@@ -1786,7 +1786,7 @@ select::-ms-expand {
 }
 .contact-form form button,.contact-form form button:hover,
  .contact-form form button:focus{
-	font-size: 13px;
+	font-size: 15px;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
@@ -1989,7 +1989,7 @@ select::-ms-expand {
 }
 .f-second-content ul li a{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	color: #bfbfbf;
 	text-decoration: none;
 	padding: 2px 0px;
@@ -2010,7 +2010,7 @@ select::-ms-expand {
 .f-third-content ul li a{
 	color: #3b5684;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	display: block;
 	padding: 5px 0px;
 	text-decoration: none;
@@ -2043,7 +2043,7 @@ select::-ms-expand {
 	width: 60px;
 	height:100%;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	color: #fff;
 	font-weight: bold;
 	border: 0px solid;
@@ -2053,10 +2053,10 @@ select::-ms-expand {
     box-shadow: inset 0 0px 0px rgba(0,0,0,0),0 0 8px rgba(102,175,233,0);
 }
 
-.f-fourth-content input::-webkit-input-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; }
-.f-fourth-content input::-moz-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; } /* firefox 19+ */
-.f-fourth-content input:-ms-input-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; } /* ie */
-.f-fourth-content input:-moz-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 13px; }
+.f-fourth-content input::-webkit-input-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 15px; }
+.f-fourth-content input::-moz-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 15px; } /* firefox 19+ */
+.f-fourth-content input:-ms-input-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 15px; } /* ie */
+.f-fourth-content input:-moz-placeholder { color:#5d5d5d; font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 15px; }
 .footer-bottom{
 	border-top: 1px solid #353535;
     padding: 30px 0px;
@@ -2085,7 +2085,7 @@ select::-ms-expand {
 .f-bottom-right-text ul li a{
 	color: #bfbfbf;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	display: inline-block;
 	padding-left: 25px;
 	text-decoration: none;
@@ -2197,7 +2197,7 @@ select::-ms-expand {
 }
 .h-2-p-c-default >a{
 	color: #282828;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
@@ -2290,7 +2290,7 @@ select::-ms-expand {
     font-weight: normal;
 }
 .history-panel-title a{
-	font-size: 14px;
+	font-size: 15px;
 	color: #282828;
 	font-weight: bold;
 	font-family: 'Open Sans', sans-serif;
@@ -2339,7 +2339,7 @@ select::-ms-expand {
 }
 .accordion-body-text a{
     color: #3b5684;
-    font-size: 13px;
+    font-size: 15px;
     display: inline-block;
     text-decoration: none;
     font-weight: bold;
@@ -2507,7 +2507,7 @@ select::-ms-expand {
 	border: 2px solid #eee;
     border-radius: 0;
     color: #333;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 17px 26px;
@@ -2588,7 +2588,7 @@ select::-ms-expand {
     padding: 22px;
 }
 .skill{
-	font-size: 13px;
+	font-size: 15px;
 	color: #222222;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
@@ -2712,7 +2712,7 @@ select::-ms-expand {
     border-right: 1px solid transparent;
 }
 .history-nav-tabs li a{
-	font-size: 14px;
+	font-size: 15px;
 	color: #282828!important;
 	font-weight: bold;
     font-family: 'Open Sans', sans-serif;
@@ -2721,7 +2721,7 @@ select::-ms-expand {
     padding: 18px 30px;
 }
 .history-nav-tabs li a:hover{
-    font-size: 14px;
+    font-size: 15px;
     color: #282828!important;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
@@ -2777,7 +2777,7 @@ select::-ms-expand {
 }
 .home-5-p-c-details h3{
 	color: #282828;
-    font-size: 14px;
+    font-size: 15px;
     font-family: 'Lora', serif;
     padding: 15px 0 0px;
 
@@ -3072,7 +3072,7 @@ select::-ms-expand {
 	color: #fff;
 }
 .h-7-p-c-slider-hover > a {
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: bold;
 	display: inline-block;
 	color: #fff;
@@ -3179,7 +3179,7 @@ select::-ms-expand {
 	border: 2px solid #fff;
     border-radius: 0;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 17px 26px;
@@ -3227,7 +3227,7 @@ select::-ms-expand {
 }
 .address-details{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 
 }
 .map-bg{
@@ -3272,7 +3272,7 @@ select::-ms-expand {
 .view-location a{
 	text-decoration: none;
 	color: #282828;
-    font-size: 13px;
+    font-size: 15px;
     display: inline-block;
     padding-top: 5px;
     padding-left: 25px;
@@ -3636,7 +3636,7 @@ ul.page-breadcrumbs li + li:before {
 .practice-pc-hover button, .practice-pc-hover button:focus{
     border: 2px solid #eee;
     border-radius: 0;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 17px 26px;
@@ -3800,7 +3800,7 @@ ul.page-breadcrumbs li + li:before {
     border: 2px solid #3b5684;
     border-radius: 0;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 17px 26px;
@@ -3874,7 +3874,7 @@ ul.page-breadcrumbs li + li:before {
 .attorney-content-default p{
     color: #b8b8b8;
     font-family: 'Lora', serif;
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 30px;
 }
 .attorney-content-default-hover{}
@@ -3896,7 +3896,7 @@ ul.page-breadcrumbs li + li:before {
 .attorney-content-default-hover p{
     color: #b8b8b8;
     font-family: 'Lora', serif;
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 30px;    
 }
 .about-attorney-member{
@@ -3957,7 +3957,7 @@ ul.page-breadcrumbs li + li:before {
     border: 2px solid #3b5684;
     border-radius: 0;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 17px 26px;
@@ -3996,7 +3996,7 @@ ul.page-breadcrumbs li + li:before {
     margin-top: 0;
 }
 .attorney-introduction p{
-    font-size: 13px;
+    font-size: 15px;
     color: #9b9b9b;
     margin-bottom: 40px;
     line-height: 25px;
@@ -4013,7 +4013,7 @@ ul.page-breadcrumbs li + li:before {
     color: #9b9b9b;
 }
 .attorney-introduction ul li:before{
-    font-size: 13px;
+    font-size: 15px;
     content: "\f0a3";
     font-family: FontAwesome;
     color: #3b5684;
@@ -4151,7 +4151,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .sidebar-category ul li{}
 .sidebar-category ul li a{
-	font-size: 13px;
+	font-size: 15px;
 	color: #333333;
 	font-family: 'Open Sans', sans-serif;
 	display: block;
@@ -4290,7 +4290,7 @@ ul.page-breadcrumbs li + li:before {
 .blog-read-more a,.blog-read-more a:focus{
 	font-family: 'Open Sans', sans-serif;
 	padding: 17px 46px;
-	font-size: 13px;
+	font-size: 15px;
 	color: #fff;
 	background: #3b5684;
 	text-decoration: none;
@@ -4339,7 +4339,7 @@ ul.page-breadcrumbs li + li:before {
 .blog-social span{}
 .blog-social a{}
 .blog-social a{
-	font-size: 14px;
+	font-size: 15px;
 	color: #333333;
 	display: inline-block;
 	margin-left: 20px;
@@ -4664,7 +4664,7 @@ ul.page-breadcrumbs li + li:before {
 
 }
 .blog-reply-content > a{
-   font-size: 13px;
+   font-size: 15px;
    color: #fff;
    font-family: 'Open Sans', sans-serif;
    background: #333333;
@@ -4684,10 +4684,10 @@ ul.page-breadcrumbs li + li:before {
 .blog-reply-form{}
 .blog-reply-form form{
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
 }
 .blog-reply-form form .form-control{
-    font-size: 13px;
+    font-size: 15px;
 }
 .blog-reply-form form input, .blog-reply-form form input:focus{
     max-width: 370px;
@@ -4706,7 +4706,7 @@ ul.page-breadcrumbs li + li:before {
     resize:none;
 }
 .blog-reply-form form button,.blog-reply-form form button:focus{
-    font-size: 13px;
+    font-size: 15px;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
@@ -4791,7 +4791,7 @@ ul.page-breadcrumbs li + li:before {
     margin: auto;
 }
 .error-content a{
-    font-size: 13px;
+    font-size: 15px;
     color: #333333;
     font-weight:bold;
     font-family: 'Open Sans', sans-serif;
@@ -4989,7 +4989,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .pricing-table-number span:nth-of-type(3){
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
 }
 .pricing-table-content{
     border-color: #ebebeb;
@@ -4998,7 +4998,7 @@ ul.page-breadcrumbs li + li:before {
     padding: 30px;
 }
 .pricing-table-content p{
-    font-size: 14px;
+    font-size: 15px;
     color: #959595;
     font-family: 'Lora', serif;
     text-align: center;
@@ -5011,7 +5011,7 @@ ul.page-breadcrumbs li + li:before {
     border: 2px solid #eee;
     border-radius: 0;
     color: #333;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 17px 26px;
@@ -5046,7 +5046,7 @@ ul.page-breadcrumbs li + li:before {
     line-height: 40px;
     border-bottom: 1px solid #f5f4f4;
     color: #333;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 
 }
@@ -5083,11 +5083,11 @@ ul.page-breadcrumbs li + li:before {
     font-size: 18px;
 }
 .f-h6-head h6{
-    font-size: 14px;
+    font-size: 15px;
 }
 .f-h1-head p{
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     color: #9b9b9b;
     line-height: 24px;
     font-weight: normal;
@@ -5217,7 +5217,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .bullet-list-content ul li{
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     color: #9b9b9b;
     line-height: 24px;
     padding: 2px 0px; 
@@ -5241,7 +5241,7 @@ ul.page-breadcrumbs li + li:before {
 }
 .bullet-list-content ol li{
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     color: #9b9b9b;
     line-height: 24px;
     padding: 2px 0px; 
@@ -5292,29 +5292,29 @@ ul.page-breadcrumbs li + li:before {
     padding-bottom: 50px;
 }
 .contact-us-1-form form{
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 }
 .contact-us-1-form form .form-control{
-    font-size: 13px;
+    font-size: 15px;
 }
 .contact-us-1-form .form-control ::-webkit-input-placeholder {
     color:#b8b8b8;
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px; 
+    font-size: 15px; 
 }
 .contact-us-1-form .form-control ::-moz-placeholder {
     color:#b8b8b8; font-family:'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 15px;
 } /* firefox 19+ */
 .contact-us-1-form .form-control :-ms-input-placeholder {
     color:#b8b8b8;
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px; 
+    font-size: 15px; 
 } /* ie */
 .contact-us-1-form .form-control :-moz-placeholder { 
     color:#b8b8b8; font-family: 'Open Sans', sans-serif;
-     font-size: 13px; 
+     font-size: 15px; 
  }
 .contact-us-1-form input,.contact-us-1-form input:focus{
     background: transparent!important;
@@ -5343,7 +5343,7 @@ ul.page-breadcrumbs li + li:before {
     resize:none;
 }
 .contact-us-1-form button, .contact-us-1-form button:focus{
-    font-size: 13px;
+    font-size: 15px;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
@@ -5398,7 +5398,7 @@ ul.page-breadcrumbs li + li:before {
     padding-bottom: 50px;
 }
 .bf ul.filter li a{
-    font-size: 13px;
+    font-size: 15px;
     color: #282828;
     font-weight: 700;
     text-transform: uppercase;
@@ -5501,7 +5501,7 @@ ul.page-breadcrumbs li + li:before {
     background-color: #fff;
     border-radius: 2px;
     color: #333;
-    font-size: 14px;
+    font-size: 15px;
     height: 34px;
     line-height: 34px;
     text-align: center;
@@ -6196,7 +6196,7 @@ background: url(../images/page-title-v5.jpg);
     display: none;
 }
 .separator-Title-3 span{
-    font-size: 14px;
+    font-size: 15px;
     color: #3b5684;
     position: relative;
     margin-bottom: 10px;
@@ -6375,7 +6375,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     line-height: 34px;
     outline: medium none;
     padding: 0 10px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     background: transparent;
 }
@@ -6394,7 +6394,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     color: #b8b8b8;
     outline: medium none;
     padding: 0 10px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     background: transparent;
 }
@@ -6414,7 +6414,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     position: absolute;
     top: 0;
     left: 50%;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: bold;
     color: #ffffff;
     font-family: 'Open Sans', sans-serif;
@@ -6460,7 +6460,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     border-color: #3b5684;
     border-radius: 0;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     font-weight: 700;
@@ -6487,7 +6487,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     text-align: center;
 }
 .shop-content-text p{
-    font-size: 13px;
+    font-size: 15px;
     color: #b8b8b8;
     font-style: italic;
     font-family: 'Lora', serif;
@@ -6532,7 +6532,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 }
 .shop-right-thumb h3{}
 .shop-right-thumb p{
-    font-size: 13px;
+    font-size: 15px;
     color: #3b5684;
     font-weight: bold;
     padding-bottom: 30px;
@@ -6553,7 +6553,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     border-color: #3b5684;
     border-radius: 0;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     font-weight: 700;
@@ -6639,7 +6639,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     color: #3b5684;
 }
 .shop-product-right span i{
-    font-size: 14px;
+    font-size: 15px;
     color: #b8b8b8;
     padding: 8px;
     border: 1px solid #eeeeee;
@@ -6684,7 +6684,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     border-radius: 4px;
 }
 .shop-product-single-heading span i{
-    font-size: 14px;
+    font-size: 15px;
     color: #fff;
     padding: 16px;
 }
@@ -6838,7 +6838,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     display: inline-block;
     width: 135px;
     height: 40px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     text-decoration: none;
@@ -6873,7 +6873,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     margin-right: 10px;
 }
 .shop-share-product span a i{
-    font-size: 14px;
+    font-size: 15px;
     color: #ffffff;
     padding-top: 10px;
 }
@@ -6950,7 +6950,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .shop-author:before{
     content: "\f007";
     font-family: FontAwesome;
-    font-size: 14px;
+    font-size: 15px;
     padding-right: 10px;
     color: #333;
 }
@@ -6970,7 +6970,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .shop-time:before{
     content: "\f073";
     font-family: FontAwesome;
-    font-size: 14px;
+    font-size: 15px;
     padding-right: 10px;
     color: #333;
 }
@@ -6978,7 +6978,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .shop-single-form input, .shop-single-form input:focus{
     background-color: transparent;
     color: #474747;
-    font-size: 13px;
+    font-size: 15px;
     padding: 5px 14px;
     height: 38px;
     line-height: normal;
@@ -6992,7 +6992,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .shop-single-form textarea{
     background-color: transparent;
     color: #474747;
-    font-size: 13px;
+    font-size: 15px;
     padding: 5px 14px;
     height: 38px;
     line-height: normal;
@@ -7008,7 +7008,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     border-color: #323232!important;
     border-radius: 0;
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1;
     margin: 0;
     padding: 15px 20px;
@@ -7075,7 +7075,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
 .shop-cart-table table tr td:nth-of-type(2),.shop-cart-table table tr td:nth-of-type(4){
     color: #3b5684;
     font-weight: bold;
-    font-size: 13px;
+    font-size: 15px;
 }
 .shop-cart-table table tr td{
     height: 110px;
@@ -7121,7 +7121,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     display: inline-block;
     width: 135px;
     height: 40px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     text-decoration: none;
@@ -7143,7 +7143,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     display: inline-block;
     width: 135px;
     height: 40px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     text-decoration: none;
@@ -7190,7 +7190,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     color: #b8b8b8;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
 }
 .shop-select{}
@@ -7200,7 +7200,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     right: 13px;
 }
 .shop-select span i{
-    font-size: 13px;
+    font-size: 15px;
     color: #b8b8b8;
 }
 .shop-select-2{}
@@ -7216,7 +7216,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     color: #b8b8b8;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     width: 48%;
     margin-left:2%;
@@ -7233,7 +7233,7 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     display: inline-block;
     width: 135px;
     height: 40px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     text-decoration: none;
@@ -7339,5 +7339,20 @@ select.form-control, select.form-control:hover, select.form-control:focus, selec
     background: url('../images/logo-bg.png');
     background-size: 500px 281px;
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: right 95%;
+}
+
+.maneslogo{
+	width: 500px;
+	height: 281px;
+	margin-top: -281px;
+	float: right;
+}
+
+.justify{
+	text-align:justify;
+}
+
+.big li{
+    font-size: 17px !important;
 }
