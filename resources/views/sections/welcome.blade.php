@@ -123,7 +123,7 @@
             <div class="row">
                 <div class="col-sm-6 col-md-6">
                     <div class="help-img">
-                        <img src="images/einkaso-logo.png" alt="">
+                        {{--<img src="images/einkaso-logo.png" alt="">--}}
                     </div>
                 </div> <!-- end left side image area -->
 
@@ -149,7 +149,16 @@
                         Typy pohľadávok najčastejšie riešených v projekte einkaso :
                     </p>
 
-                    <div class="sidebar-category sidebar-inner">
+                    <br>
+                    <br>
+
+                    <div class="col-md-6">
+                        <a href="http://www.einkaso.sk" target="_blank">
+                            <img src="images/einkaso-logo.png" alt="">
+                        </a>
+                    </div>
+
+                    <div class="sidebar-category sidebar-inner col-md-6">
                         <ul>
                             <li><i class="fa fa-long-arrow-right colored"></i> Pôžičky</li>
                             <li><i class="fa fa-long-arrow-right colored"></i> Zmenky</li>

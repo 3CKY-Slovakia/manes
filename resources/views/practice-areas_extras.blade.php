@@ -47,7 +47,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <ul>
+                    <ul class="big">
                         <li>Mystery shopping</li>
                         <li>Znovuuvedenie odobratých premetov leasingu na trh - odkup</li>
                         <li>Likvidácie poistných udalostí</li>
@@ -57,7 +57,7 @@
                     </ul>
                 </div>
                 <div class="col-md-6">
-                    <ul>
+                    <ul class="big">
                         <li>Poznaj svojho zákazníka - scoring</li>
                         <li>Poznaj svojho dealera (utajená kontrola kvality)</li>
                         <li>Dražby hnuteľných a nehnuteľných vecí</li>
@@ -69,6 +69,8 @@
             </div>
         </div>
     </section> <!-- end practice area -->
+	<img class="maneslogo" src="{{ asset('images/logo-bg.png')  }}">
+
 
     <!-- =========================
      START PRACTICE SECTION
@@ -76,7 +78,7 @@
 
     <section class="practice-area home-2-practice-area type-1-bg">
         <div class="welcome-title-area">
-            <div class="container bg_logo">
+            <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-sm-12">
                         <div class="Title-area">

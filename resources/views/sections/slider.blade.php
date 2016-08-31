@@ -244,7 +244,7 @@
                      data-responsive_offset="on"
 
 
-                     style="z-index: 8; white-space: nowrap;"><a class="btn btn-default-alt rev-slider-btn-1" href="#">Vyžidajte si konzultáciu zdarma</a>
+                     style="z-index: 8; white-space: nowrap;"><a class="btn btn-default-alt rev-slider-btn-1" href="#contact_us">Vyžidajte si konzultáciu zdarma</a>
                 </div>
             </li>
 
@@ -508,7 +508,7 @@
                      data-responsive_offset="on"
 
 
-                     style="z-index: 8; white-space: nowrap; color: rgba(117, 117, 117, 1.00);padding:1px 4px 1px 4px;border-color:rgba(255, 214, 88, 1.00);"><a href="#about_us" class="btn btn-primary rev-slider-btn-1 rev-slider-btn-2">Viac o nás</a>
+                     style="z-index: 8; white-space: nowrap; color: rgba(117, 117, 117, 1.00);padding:1px 4px 1px 4px;border-color:rgba(255, 214, 88, 1.00);"><a href="{{ url('/')  }}#o_nas" class="btn btn-primary rev-slider-btn-1 rev-slider-btn-2">Viac o nás</a>
                 </div>
             </li>
 
