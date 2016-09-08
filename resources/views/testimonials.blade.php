@@ -29,137 +29,137 @@
      START TESTMONIAL SECTION
     ============================== -->
 
-    <section class="testimonial-area testimonial-details-area type-1-bg">
-        <div class="welcome-title-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6">
-                        <div class="Title-area">
-                            <h3>Čo o nás vravia klienti</h3>
-                            <h2>Referencie</h2>
-                            <p>Zistite čo o nás vravia naši klienti. Sme známi tým, že držíme slovo a zameriavame sa na dodanie priaznivých výsledkov v čo najkratšom možnom čase.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- end title. it will use all pages title --> 
+    {{--<section class="testimonial-area testimonial-details-area type-1-bg">--}}
+        {{--<div class="welcome-title-area">--}}
+            {{--<div class="container">--}}
+                {{--<div class="row">--}}
+                    {{--<div class="col-xs-12 col-sm-6">--}}
+                        {{--<div class="Title-area">--}}
+                            {{--<h3>Čo o nás vravia klienti</h3>--}}
+                            {{--<h2>Referencie</h2>--}}
+                            {{--<p>Zistite čo o nás vravia naši klienti. Sme známi tým, že držíme slovo a zameriavame sa na dodanie priaznivých výsledkov v čo najkratšom možnom čase.</p>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div> <!-- end title. it will use all pages title --> --}}
 
-        <div class="testimonial-content-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 no-padding">
-                        <div id="testimonial-details-demo" class="owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="owl-testimonial-content owl-testimonial-details">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h2 class="red"> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>
-                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
-                                </div>
-                                <div class="testimonial-quote t-details-quote">
-                                    <span class="red">Begha</span>
-                                    <span class="red">Art Director, 7oroof Agency.</span>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="owl-testimonial-content owl-testimonial-details">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h2 class="red"> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>
-                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
-                                </div>
-                                <div class="testimonial-quote t-details-quote">
-                                    <span class="red">Amr Sadek</span>
-                                    <span class="red">UI Developer</span>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="owl-testimonial-content owl-testimonial-details">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h2 class="red"> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>
-                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
-                                </div>
-                                <div class="testimonial-quote t-details-quote">
-                                    <span class="red">Begha</span>
-                                    <span class="red">Art Director, 7oroof Agency.</span>
-                                </div>
-                            </div> 
-                            <div class="item">
-                                <div class="owl-testimonial-content owl-testimonial-details">
-                                    <i class="fa fa-quote-left"></i>
-                                    <h2 class="red"> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>
-                                    <p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>
-                                </div>
-                                <div class="testimonial-quote t-details-quote">
-                                    <span class="red">Amr Sadek</span>
-                                    <span class="red">UI Developer</span>
-                                </div>
-                            </div>                           
-                        </div>
-                        <div class="testimonial-customNavigation t-detalis-customNavigation">
-                          <a class="btn prev"><i class="fa fa-long-arrow-left"></i></a>
-                          <a class="btn next"><i class="fa fa-long-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>       
-    </section><!-- end testimonial area -->
+        {{--<div class="testimonial-content-area">--}}
+            {{--<div class="container">--}}
+                {{--<div class="row">--}}
+                    {{--<div class="col-md-12 no-padding">--}}
+                        {{--<div id="testimonial-details-demo" class="owl-carousel owl-theme">--}}
+                            {{--<div class="item">--}}
+                                {{--<div class="owl-testimonial-content owl-testimonial-details">--}}
+                                    {{--<i class="fa fa-quote-left"></i>--}}
+                                    {{--<h2 class="red"> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>--}}
+                                    {{--<p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>--}}
+                                {{--</div>--}}
+                                {{--<div class="testimonial-quote t-details-quote">--}}
+                                    {{--<span class="red">Begha</span>--}}
+                                    {{--<span class="red">Art Director, 7oroof Agency.</span>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                            {{--<div class="item">--}}
+                                {{--<div class="owl-testimonial-content owl-testimonial-details">--}}
+                                    {{--<i class="fa fa-quote-left"></i>--}}
+                                    {{--<h2 class="red"> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>--}}
+                                    {{--<p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>--}}
+                                {{--</div>--}}
+                                {{--<div class="testimonial-quote t-details-quote">--}}
+                                    {{--<span class="red">Amr Sadek</span>--}}
+                                    {{--<span class="red">UI Developer</span>--}}
+                                {{--</div>--}}
+                            {{--</div>--}}
+                            {{--<div class="item">--}}
+                                {{--<div class="owl-testimonial-content owl-testimonial-details">--}}
+                                    {{--<i class="fa fa-quote-left"></i>--}}
+                                    {{--<h2 class="red"> <span><img src="images/testimonial-user.png" alt="user"></span>At Trust, Each Lawyer Focuses Only  On Civil Matters !</h2>--}}
+                                    {{--<p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>--}}
+                                {{--</div>--}}
+                                {{--<div class="testimonial-quote t-details-quote">--}}
+                                    {{--<span class="red">Begha</span>--}}
+                                    {{--<span class="red">Art Director, 7oroof Agency.</span>--}}
+                                {{--</div>--}}
+                            {{--</div> --}}
+                            {{--<div class="item">--}}
+                                {{--<div class="owl-testimonial-content owl-testimonial-details">--}}
+                                    {{--<i class="fa fa-quote-left"></i>--}}
+                                    {{--<h2 class="red"> <span><img src="images/testimonial-user-2.png" alt="user"></span>Get Reliable & Effective Legal Soultions At Trust.</h2>--}}
+                                    {{--<p class="red">Aiming to provide high quality legal consultancy, support and results for your legal issues. Using their expertise and experience, Trust law firm documents and builds their clients' cases to obtain the best results they could achieve in their particular situation. <br> Trust has been known for doing what he says, aiming to bring favourable results for its customers as soon as possible.</p>--}}
+                                {{--</div>--}}
+                                {{--<div class="testimonial-quote t-details-quote">--}}
+                                    {{--<span class="red">Amr Sadek</span>--}}
+                                    {{--<span class="red">UI Developer</span>--}}
+                                {{--</div>--}}
+                            {{--</div>                           --}}
+                        {{--</div>--}}
+                        {{--<div class="testimonial-customNavigation t-detalis-customNavigation">--}}
+                          {{--<a class="btn prev"><i class="fa fa-long-arrow-left"></i></a>--}}
+                          {{--<a class="btn next"><i class="fa fa-long-arrow-right"></i></a>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>       --}}
+    {{--</section><!-- end testimonial area -->--}}
 
-    <!-- =========================
-     FUN FACT SECTION
-    ============================== -->
+    {{--<!-- =========================--}}
+     {{--FUN FACT SECTION--}}
+    {{--============================== -->--}}
 
-    <section class="fun-fact-area">
-        <div class="welcome-title-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6">
-                        <div class="Title-area contact-title h-5-title">
-                            <h3>v číslach</h3>
-                            <h2>Naše úspechy</h2>
-                            <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- end title. it will use all pages title -->
+    {{--<section class="fun-fact-area">--}}
+        {{--<div class="welcome-title-area">--}}
+            {{--<div class="container">--}}
+                {{--<div class="row">--}}
+                    {{--<div class="col-xs-12 col-sm-6">--}}
+                        {{--<div class="Title-area contact-title h-5-title">--}}
+                            {{--<h3>v číslach</h3>--}}
+                            {{--<h2>Naše úspechy</h2>--}}
+                            {{--<p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div> <!-- end title. it will use all pages title -->--}}
 
-        <!-- START COUNTDOWN -->
-        <div class="countdown h-5-countdown-icon">
-            <div class="container">
-                <div class="row no-margin">
-                    <div class="countdown-inner h-5-countdown-inner clearfix">
-                        <div class="col-xs-12 col-sm-6 col-md-4 no-padding">
-                            <div class="countdown-content h-5-countdown-content">
-                                <h2 style="color: #333"><span class="counter" style="color: #333">5</span>+ </h2>
-                                <p style="color: #333">Kvalifikovaných operátorov</p>
-                            </div>
-                            <div class="countdown-icon h-5-countdown-icon">
-                                <i class="icon icon-Users"></i>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 no-padding">
-                            <div class="countdown-content h-5-countdown-content">
-                                <h2 style="color: #333"><span class="counter" style="color: #333">27</span>+</h2>
-                                <p style="color: #333">Verných klientov</p>
-                            </div>
-                            <div class="countdown-icon h-5-countdown-icon">
-                                <i class="icon icon-Briefcase"></i>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6 col-md-4 no-padding">
-                            <div class="countdown-content h-5-countdown-content">
-                                <h2 style="color: #333"><span class="counter" style="color: #333">700</span>+</h2>
-                                <p style="color: #333">Úspešných prípadov</p>
-                            </div>
-                            <div class="countdown-icon h-5-countdown-icon">
-                                <i class="icon icon-Column"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-            </div>
-        </div> <!-- end countdown -->
-    </section>
+        {{--<!-- START COUNTDOWN -->--}}
+        {{--<div class="countdown h-5-countdown-icon">--}}
+            {{--<div class="container">--}}
+                {{--<div class="row no-margin">--}}
+                    {{--<div class="countdown-inner h-5-countdown-inner clearfix">--}}
+                        {{--<div class="col-xs-12 col-sm-6 col-md-4 no-padding">--}}
+                            {{--<div class="countdown-content h-5-countdown-content">--}}
+                                {{--<h2 style="color: #333"><span class="counter" style="color: #333">5</span>+ </h2>--}}
+                                {{--<p style="color: #333">Kvalifikovaných operátorov</p>--}}
+                            {{--</div>--}}
+                            {{--<div class="countdown-icon h-5-countdown-icon">--}}
+                                {{--<i class="icon icon-Users"></i>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                        {{--<div class="col-xs-12 col-sm-6 col-md-4 no-padding">--}}
+                            {{--<div class="countdown-content h-5-countdown-content">--}}
+                                {{--<h2 style="color: #333"><span class="counter" style="color: #333">27</span>+</h2>--}}
+                                {{--<p style="color: #333">Verných klientov</p>--}}
+                            {{--</div>--}}
+                            {{--<div class="countdown-icon h-5-countdown-icon">--}}
+                                {{--<i class="icon icon-Briefcase"></i>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                        {{--<div class="col-xs-12 col-sm-6 col-md-4 no-padding">--}}
+                            {{--<div class="countdown-content h-5-countdown-content">--}}
+                                {{--<h2 style="color: #333"><span class="counter" style="color: #333">700</span>+</h2>--}}
+                                {{--<p style="color: #333">Úspešných prípadov</p>--}}
+                            {{--</div>--}}
+                            {{--<div class="countdown-icon h-5-countdown-icon">--}}
+                                {{--<i class="icon icon-Column"></i>--}}
+                            {{--</div>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div> --}}
+            {{--</div>--}}
+        {{--</div> <!-- end countdown -->--}}
+    {{--</section>--}}
 
     <!-- =========================
      START OUR CLIENT SECTION
@@ -173,7 +173,7 @@
                         <div class="Title-area">
                             <h3>Dôverujú nám</h3>
                             <h2>Naši klienti</h2>
-                            <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>
+                            {{--<p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>--}}
                         </div>
                     </div>
                 </div>
@@ -185,9 +185,9 @@
                     <div class="col-md-12">
                         <div class="client-content">
                             <div id="client-demo" class="owl-carousel owl-theme home-client-content">
-                                <div class="item client-item">
-                                    <a href="#"><img src="images/clients/cesmad.png" alt=""></a>
-                                </div>
+                                {{--<div class="item client-item">--}}
+                                    {{--<a href="#"><img src="images/clients/cesmad.png" alt=""></a>--}}
+                                {{--</div>--}}
                                 <div class="item client-item">
                                     <a href="#"><img src="images/clients/frieb.png" alt=""></a>
                                 </div>

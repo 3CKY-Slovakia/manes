@@ -59,9 +59,9 @@
                     <div class="col-sm-6 col-md-4 no-padding-right">
                         <div class="address-area">
                             <!-- address title -->
-                            <div class="Title-area home-8-title-area contact-1-title-area">
-                                <p class="red">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>
-                            </div>                        
+                            {{--<div class="Title-area home-8-title-area contact-1-title-area">--}}
+                                {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor laoreet vulputate. Donec consectetur placerat nunc vitae interdum. Donec mollis dignissim porta.</p>--}}
+                            {{--</div>                        --}}
                         </div>
                         <div class="col-md-6">
                             <div class="address-details">

@@ -22,9 +22,9 @@
                 <div class="col-md-12">
                     <div class="client-content">
                         <div id="client-demo" class="owl-carousel owl-theme home-client-content">
-                            <div class="item client-item">
-                                <a href="#"><img src="images/clients/cesmad.png" alt=""></a>
-                            </div>
+                            {{--<div class="item client-item">--}}
+                                {{--<a href="#"><img src="images/clients/cesmad.png" alt=""></a>--}}
+                            {{--</div>--}}
                             <div class="item client-item">
                                 <a href="#"><img src="images/clients/frieb.png" alt=""></a>
                             </div>
